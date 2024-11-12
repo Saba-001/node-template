@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "baseUrl": ".",
+    "outDir": "dist",
+    "sourceMap": true,
+    "strict": true,
+    "incremental": true,
+    "skipLibCheck": true,
+    "inlineSources": true,
+    "removeComments": true,
+    "experimentalDecorators": true,
+    "strictNullChecks": true,
+    "forceConsistentCasingInFileNames": true,
+    "pretty": true
+  },
+  "include": ["src/**/*"]
+}
